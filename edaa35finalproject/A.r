@@ -63,21 +63,6 @@ for (i in 1:(600 - AOE)) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # png("Q_sort_1.png")
 # plotresult("QsortResult1.txt")
 # dev.off()
